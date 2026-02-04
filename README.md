@@ -2,6 +2,8 @@
 
 A soothing dark theme for Zed, based on my own preferences and from ClearNight. I really wanted to bring this over from Atom/Pulsar.
 
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/29f1d9b9-b619-4623-9b31-d5c0c450ab18" />
+
 ## About
 
 This theme is inspired by and based on the colour schemes from:
